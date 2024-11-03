@@ -1,4 +1,4 @@
-## Oi dev! 👋
+## Bem Vindos! 👋
 <!-- Jogo da Cobrinha -->
 <div align="center">
   <picture>
